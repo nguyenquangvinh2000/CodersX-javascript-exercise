@@ -5,4 +5,4 @@
 
 
 
-sắp tới mình sẽ học thêm html css và có 1 profile website persional hehe ^^
+sắp tới mình sẽ học thêm html css và có 1 profile website persional nhỏ hehe ^^
