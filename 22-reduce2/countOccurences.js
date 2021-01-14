@@ -15,7 +15,6 @@ function countOccurrences(arr) {
           }
           else newobject[key] =1;
           return newobject;
+
       },{});
   }
-  
-  

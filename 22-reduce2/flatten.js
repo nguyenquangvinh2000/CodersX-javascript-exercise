@@ -16,6 +16,6 @@ function flatten(arr) {
     return arr.reduce(function(flat,toflatten){
         return flat.concat(Array.isArray(toflatten) ? flatten(toflatten) : toflatten);
     },[]);
-  }
+}
   
   
