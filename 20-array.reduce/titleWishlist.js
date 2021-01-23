@@ -12,3 +12,9 @@ var wishlist = [
     // Write code here...
     return wishlist.map(x=>x.title)
   }
+
+var wish = {
+  "name": 'johncef';
+  "version": '2.0.0';
+}
+console.log(wish);

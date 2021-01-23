@@ -20,4 +20,3 @@ function showInfo(obj) {
     console.log(student1.age);
 
 }
-

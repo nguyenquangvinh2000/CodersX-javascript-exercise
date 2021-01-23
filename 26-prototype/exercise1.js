@@ -13,3 +13,5 @@ function Student(name, level) {
 }
 
 Student.prototype.school = 'CodersX';
+
+

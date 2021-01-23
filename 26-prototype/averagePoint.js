@@ -27,6 +27,10 @@ function Student(diemToan, diemLy, diemHoa) {
     
   }
   
+  
   var student1 = new Student(6, 7, 7);
   var student2 = new Student(8, 9, 6);
   
+  console.log(Student)
+  console.log(student1)
+  console.log(student2)
