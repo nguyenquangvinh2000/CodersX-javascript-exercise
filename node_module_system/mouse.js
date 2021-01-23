@@ -7,3 +7,4 @@ Mouse.prototype.die = function(){
 };
 
 module.exports = Mouse;
+
