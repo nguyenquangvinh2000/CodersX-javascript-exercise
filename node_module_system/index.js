@@ -19,3 +19,5 @@ var tom = new Cat();
 tom.eat(Mickey);
 tom.eat(jerry);
 console.log(tom);
+
+
