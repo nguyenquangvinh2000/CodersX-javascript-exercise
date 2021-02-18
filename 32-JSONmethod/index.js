@@ -6,12 +6,11 @@
  * 5. Ghi lại dữ liệu vào file data.json
  * 6. Mở file data.json để kiểm chứng xem bạn làm đúng không
  */
-//var readlineSync = require('readline-sync');
+var readlineSync = require('readline-sync');
 var fs = require('fs');
 var data = JSON.parse(fs.readFileSync('./data.json',{encoding:'utf-8'}));
 
 
-//fs.writeFileSync('./data.json','{"name":"vinh","age":"21"}');
+fs.writeFileSync('./data.json','{"name":"vinh","age":"21"}');
 
 console.log(data);
-
