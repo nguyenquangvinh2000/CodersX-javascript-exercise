@@ -17,3 +17,4 @@ readSring.push({
 console.log(readSring)
 var write = fs.writeFileSync('./readString',readSring);
 console.log(readSring);
+
