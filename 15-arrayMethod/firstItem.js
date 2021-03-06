@@ -12,3 +12,4 @@ function first(arr, n) {
   }
   
   // console.log(first([1, 2, 3], 2)); // expect [1, 2]
+  
