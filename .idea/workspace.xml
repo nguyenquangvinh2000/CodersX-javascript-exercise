@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="010a7c60-3172-4bec-9fd9-57b9007b75ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../CodersX javascript exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodersX javascript exercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promise/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/promise/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promise/node_modules/caseless/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/promise/node_modules/caseless/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../CodersX javascript exercise" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mayZU4jOosWkLsR4mB1olb3kjc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -49,6 +52,9 @@
       <option name="presentableId" value="Default" />
       <updated>1609746051595</updated>
       <workItem from="1609746052893" duration="622000" />
+      <workItem from="1615223792991" duration="538000" />
+      <workItem from="1615259821052" duration="959000" />
+      <workItem from="1615274553032" duration="50000" />
     </task>
     <task id="LOCAL-00001" summary="happy new year">
       <created>1609746401469</created>

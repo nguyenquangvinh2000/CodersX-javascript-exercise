@@ -12,7 +12,7 @@ request('https://jsonplaceholder.typicode.com/todos/1', function (error, respons
   console.log('Done:', body);
 });
 
-console.log('Nothing');
+console.log('Nothing'); 
 
 /**
  * Viết function `load` nhận vào 1 tham số là 1 đường link dạng string, trả về 1 promise sao cho khi gọi:
@@ -39,6 +39,6 @@ loading('https://jsonplaceholder.typicode.com/todos/1')
     .then(function(body){
         console.log(body)
     })
-    .catch(function(err){
+    .catch(function(err){ 
         console.log(err);
     })
