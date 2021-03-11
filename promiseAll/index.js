@@ -9,12 +9,10 @@ var axios = require('axios')
 
 function loadData(link){
     return new Promise(function(resolve,reject){
-        axios.get(link).then(function(err,reponse){
-            if(!err==null){
-                resolve(reponse.data)
-            }else{
-                reject(err)
-            }
+        axios.get(link).then(function(reponse){
+            resolve(reponse.data)
+        }).catch(function(err){
+            reject(err)
         })
     })
 }
