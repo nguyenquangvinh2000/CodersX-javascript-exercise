@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="010a7c60-3172-4bec-9fd9-57b9007b75ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19-array.find/findDivisible.js" beforeDir="false" afterPath="$PROJECT_DIR$/19-array.find/findDivisible.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-reduce2/flatten.js" beforeDir="false" afterPath="$PROJECT_DIR$/22-reduce2/flatten.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.htm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/promise/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/promise/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/promise/node_modules/caseless/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/promise/node_modules/caseless/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promiseAll/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/promiseAll/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sync_async/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/sync_async/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +17,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1mayZU4jOosWkLsR4mB1olb3kjc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -30,7 +41,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -55,6 +69,45 @@
       <workItem from="1615223792991" duration="538000" />
       <workItem from="1615259821052" duration="959000" />
       <workItem from="1615274553032" duration="50000" />
+      <workItem from="1616208284029" duration="119000" />
+      <workItem from="1616400206525" duration="296000" />
+      <workItem from="1618713751353" duration="7000" />
+      <workItem from="1618795481016" duration="2000" />
+      <workItem from="1619274397573" duration="215000" />
+      <workItem from="1619754931527" duration="204000" />
+      <workItem from="1619755161556" duration="90000" />
+      <workItem from="1619769527964" duration="85000" />
+      <workItem from="1624524040542" duration="24000" />
+      <workItem from="1624524088207" duration="11000" />
+      <workItem from="1624524416052" duration="113000" />
+      <workItem from="1624524570222" duration="41000" />
+      <workItem from="1624524623178" duration="24000" />
+      <workItem from="1624524675125" duration="21000" />
+      <workItem from="1624524734743" duration="8000" />
+      <workItem from="1624524898437" duration="50000" />
+      <workItem from="1624525320005" duration="202000" />
+      <workItem from="1624525581816" duration="63000" />
+      <workItem from="1624525662586" duration="138000" />
+      <workItem from="1624525931712" duration="47000" />
+      <workItem from="1624526046853" duration="6000" />
+      <workItem from="1624526117630" duration="9000" />
+      <workItem from="1624526139643" duration="7000" />
+      <workItem from="1624526219355" duration="115000" />
+      <workItem from="1624526364523" duration="20000" />
+      <workItem from="1624526455251" duration="13000" />
+      <workItem from="1624526495695" duration="17000" />
+      <workItem from="1624596083248" duration="30000" />
+      <workItem from="1624596137117" duration="42000" />
+      <workItem from="1624596187942" duration="14000" />
+      <workItem from="1624596211279" duration="4000" />
+      <workItem from="1624596599038" duration="6000" />
+      <workItem from="1624596618273" duration="14000" />
+      <workItem from="1624596730264" duration="16000" />
+      <workItem from="1624596760409" duration="21000" />
+      <workItem from="1624596935681" duration="5000" />
+      <workItem from="1624596951693" duration="73000" />
+      <workItem from="1624597125181" duration="3000" />
+      <workItem from="1624597144692" duration="101000" />
     </task>
     <task id="LOCAL-00001" summary="happy new year">
       <created>1609746401469</created>

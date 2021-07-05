@@ -30,15 +30,20 @@ function loading(url){
             }
             else{
                 resolve(body);
+                
             }
         })
     })
 }
-
+//exception 
 loading('https://jsonplaceholder.typicode.com/todos/1')
     .then(function(body){
         console.log(body)
     })
+    .then(function(datarage){
+        console.log(datarage)
+    })
+
     .catch(function(err){ 
         console.log(err);
     })

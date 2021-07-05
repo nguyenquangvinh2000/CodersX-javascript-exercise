@@ -10,5 +10,5 @@
 function findDivisibleNum(array, x) {
     // viết code ở đây.
     return array.find(y=>y%x==0)
-  }
-  
+}
+
